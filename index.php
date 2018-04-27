@@ -1,6 +1,6 @@
 <?php
 echo "hola";
-echo "Alumnos de electivo I"
+echo "Alumnos de electivo I";
 ?>
 
 
